@@ -4,7 +4,7 @@
 https://github.com/Baxtiyor6116/examuifurnitureNo5/blob/main/app-armeabi-v7a-release.apk
 <hr>
 
-<a href="https://ibb.co/q9sLq3k"><img src="https://i.ibb.co/Xpsf0rS/Screenshot-20210811-132644.jpg" alt="Screenshot-20210811-132644" border="0""width=250"></a>
+<a href="https://ibb.co/q9sLq3k"><img src="https://i.ibb.co/Xpsf0rS/Screenshot-20210811-132644.jpg" alt="Screenshot-20210811-132644" border="0" width="150"></a>
 <a href="https://ibb.co/5x613Cj"><img src="https://i.ibb.co/KzX5gBs/Screenshot-20210811-132713.jpg" alt="Screenshot-20210811-132713" border="0"></a>
 <a href="https://ibb.co/7pj1L54"><img src="https://i.ibb.co/LgYZHW5/Screenshot-20210811-133727-Google-Play-services.jpg" alt="Screenshot-20210811-133727-Google-Play-services" border="0"></a>
 <a href="https://ibb.co/12MKsbb"><img src="https://i.ibb.co/88b2zXX/Screenshot-20210811-133736.jpg" alt="Screenshot-20210811-133736" border="0"></a>
