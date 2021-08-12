@@ -4,7 +4,7 @@
 https://github.com/Baxtiyor6116/examuifurnitureNo5/blob/main/app-armeabi-v7a-release.apk
 <hr>
 
-<a href="https://ibb.co/Z6tnNq8"><img src="https://i.ibb.co/DDsxL0C/Screenrecorder.gif" alt="ExamFurniture_app" border="0" width="300"></a>
+<a href="https://ibb.co/Z6tnNq8"><img src="https://i.ibb.co/DDsxL0C/Screenrecorder.gif" alt="ExamFurniture_app.gif" border="0" width="300"></a>
 
 <hr>
 <a href="https://ibb.co/q9sLq3k"><img src="https://i.ibb.co/Xpsf0rS/Screenshot-20210811-132644.jpg" alt="Screenshot-20210811-132644" border="0" width="250"></a>
